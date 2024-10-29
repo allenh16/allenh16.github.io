@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-A Fourth year Ph.D. student ...
+A fourth year Ph.D. student ...
 
 ## Research Interests
 
