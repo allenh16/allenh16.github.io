@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Individualized Interdisciplinary Program @ HKUST.
+A Fourth year Ph.D. student ...
 
 ## Research Interests
 
