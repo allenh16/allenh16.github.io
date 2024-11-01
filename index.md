@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-A fourth year Ph.D. student at Hong Kong University of Science and Technology. Previously, I obtained M.S. Finance, B.A. Economics, and B.S. Applied Mathematics.
+A fourth year Ph.D. student. Previously, I obtained M.S. Finance, B.A. Economics, and B.S. Applied Mathematics.
 
 ## Research Interests
 
