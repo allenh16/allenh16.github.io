@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-A fourth year Ph.D. student. Previously, I obtained M.S. Finance, B.A. Economics, B.S. Applied Mathematics, from Peking University and Wuhan University.
+I am a fourth year Ph.D. student at Hong Kong University of Sci&Tech. Previously, I obtained M.S. Finance, B.A. Economics, B.S. Applied Mathematics, from Peking University and Wuhan University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantitative Strategies:** tbd
+- **Machine Learning and Artificial Intelligence:** tbd
 
 ## News
 
