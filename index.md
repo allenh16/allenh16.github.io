@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fifth year Ph.D. student at HKUST. Previously, I obtained Master of Finance from Guanghua School of Management, and Bachelor's degree in Economics and Mathematics from Hongyi College.
+I am a fifth year Ph.D. student at HKUST. Previously, I obtained Master of Finance from Guanghua School of Management, and Bachelor of Science in Economics and Mathematics from Hongyi Honor College.
 
 ## Research
 
