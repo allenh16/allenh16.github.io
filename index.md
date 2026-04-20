@@ -8,7 +8,7 @@ I am a fifth year Ph.D. student at HKUST. Previously, I obtained Master of Finan
 
 ## Research
 
-- **Distance-based Network Momentum**
+- **Distance-Based Network Momentum**
 - **Cross-Stock Predictability via LLM-Augmented Semantic Networks**, with Zheqi Fan, Kaiqi Hu, Yifan Ye, 2026, Submitted
 - **Beyond prompting: Autonomous factor investing via Agentic AI**, with Zheqi Fan, 2026, Submitted
 
