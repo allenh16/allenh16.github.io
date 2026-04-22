@@ -8,6 +8,7 @@ I am a Ph.D. candidate in Quantitative Finance at HKUST. Previously, I obtained 
 
 ## Research
 
+- **Momentum Spillovers and Reversals in Cryptocurrency Networks**
 - **Distance-Based Network Reversal**
 - **Agentic Investing in Crypto Market**
 - **Cross-Stock Predictability via LLM-Augmented Semantic Networks**, with Zheqi Fan, Kaiqi Hu, Yifan Ye, 2026, Submitted
