@@ -1,26 +1,25 @@
 # Basic Information 
 title: Allen
-position: Ph.D. Candidate
-affiliation: HKUST
-email: yourname (at) example.edu
+initials: A
+position: Ph.D. Candidate in Quantitative Finance
+affiliation: Hong Kong University of Science and Technology
+affiliation_short: HKUST
+affiliation_link: https://hkust.edu.hk/
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: quantitative finance, financial technology, machine learning, network finance, agentic AI
+description: Allen is a Ph.D. candidate in Quantitative Finance at HKUST, working on network finance, machine learning, and AI for financial markets.
+canonical: https://allenh16.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/allenh16
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+# Add an avatar path here when a final portrait is available.
+# avatar: ./assets/img/avatar.png
 favicon: ./assets/img/kl.png
 favicon_dark: ./assets/img/kl.png
 
@@ -30,15 +29,15 @@ enable_footnote: False
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: False
+auto_dark_mode: True
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics:
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
