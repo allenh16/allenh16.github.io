@@ -53,7 +53,8 @@ layout: homepage
     <p>Selected work across quantitative finance, financial networks, and artificial intelligence.</p>
   </div>
 
-  <div class="research-list">
+  <div class="research-grid">
+    <div class="research-list">
     <article class="research-item">
       <div class="research-meta"><span>Network Finance</span><span>01</span></div>
       <h3>Momentum Spillovers and Reversals in Cryptocurrency Networks</h3>
@@ -85,5 +86,6 @@ layout: homepage
       <div class="research-meta"><span>Volatility</span><span>07</span></div>
       <h3>Realized Volatility Forecasting with Graphical Information</h3>
     </article>
+    </div>
   </div>
 </section>
