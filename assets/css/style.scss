@@ -264,7 +264,7 @@ a:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
   .github-link span { display: none; }
   .hero { min-height: 50vh; padding: 4rem 0; }
   .hero > :not(.market-chart) { max-width: none; }
-  .market-chart { position: relative; top: auto; right: auto; width: 100%; margin-top: 2.75rem; opacity: .64; transform: none; }
+  .market-chart { position: absolute; top: 50%; right: -32%; width: 120%; max-width: none; margin: 0; opacity: .32; transform: translateY(-42%); }
   .section-grid { grid-template-columns: 1fr; gap: 2.5rem; padding: 5rem 0; }
   .section-heading { gap: 1.5rem; }
   .research-item { grid-template-columns: 1fr; gap: .8rem; padding: 1.6rem 0; }
