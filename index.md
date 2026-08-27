@@ -42,7 +42,6 @@ layout: homepage
     <p>I am particularly interested in empirical asset pricing, financial networks, statistical arbitrage, volatility forecasting, and the use of large language models in systematic investing.</p>
     <div class="education" aria-label="Education">
       <div><span>2026</span><p><strong>PhD in Individualized Interdisciplinary Program (Financial Technology)</strong><br>Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology</p></div>
-      <div><span>2025</span><p><strong>Master of Finance</strong><br>Guanghua School of Management, Peking University</p></div>
       <div><span>2020</span><p><strong>B.Sc. in Economics and Mathematics</strong><br>Hongyi Honor College, Wuhan University</p></div>
     </div>
   </div>
