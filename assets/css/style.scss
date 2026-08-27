@@ -216,7 +216,8 @@ main,
 .research-section { padding-bottom: 7rem; scroll-margin-top: 3rem; }
 .section-heading { align-items: end; padding-bottom: 2.5rem; }
 .section-heading > p { max-width: 540px; margin: 0; color: var(--muted); }
-.research-list { border-top: 1px solid var(--navy); }
+.research-grid { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: clamp(3rem, 8vw, 8rem); }
+.research-list { grid-column: 2; max-width: 760px; border-top: 1px solid var(--line); }
 
 .research-item {
   display: grid;
@@ -267,6 +268,8 @@ a:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
   .market-chart { position: absolute; top: 50%; right: -32%; width: 120%; max-width: none; margin: 0; opacity: .32; transform: translateY(-42%); }
   .section-grid { grid-template-columns: 1fr; gap: 2.5rem; padding: 5rem 0; }
   .section-heading { gap: 1.5rem; }
+  .research-grid { grid-template-columns: 1fr; gap: 0; }
+  .research-list { grid-column: 1; max-width: none; }
   .research-item { grid-template-columns: 1fr; gap: .8rem; padding: 1.6rem 0; }
   .research-meta { grid-column: 1; grid-row: 1; }
   .research-item h3 { grid-column: 1; grid-row: 2; }
