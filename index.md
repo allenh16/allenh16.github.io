@@ -12,6 +12,27 @@ layout: homepage
     <span>Machine Learning</span>
     <span>Agentic AI</span>
   </div>
+  <svg class="market-chart" viewBox="0 0 520 220" aria-hidden="true" focusable="false">
+    <g class="chart-grid">
+      <line x1="16" y1="30" x2="504" y2="30" />
+      <line x1="16" y1="80" x2="504" y2="80" />
+      <line x1="16" y1="130" x2="504" y2="130" />
+      <line x1="16" y1="180" x2="504" y2="180" />
+    </g>
+    <g class="chart-candles">
+      <g class="candle down"><line x1="50" y1="130" x2="50" y2="188" /><rect x="42" y="146" width="16" height="28" rx="1" /></g>
+      <g class="candle up"><line x1="90" y1="115" x2="90" y2="166" /><rect x="82" y="125" width="16" height="26" rx="1" /></g>
+      <g class="candle up"><line x1="130" y1="98" x2="130" y2="150" /><rect x="122" y="105" width="16" height="27" rx="1" /></g>
+      <g class="candle down"><line x1="170" y1="90" x2="170" y2="142" /><rect x="162" y="110" width="16" height="20" rx="1" /></g>
+      <g class="candle up"><line x1="210" y1="72" x2="210" y2="135" /><rect x="202" y="82" width="16" height="36" rx="1" /></g>
+      <g class="candle up"><line x1="250" y1="64" x2="250" y2="114" /><rect x="242" y="74" width="16" height="25" rx="1" /></g>
+      <g class="candle down"><line x1="290" y1="80" x2="290" y2="132" /><rect x="282" y="91" width="16" height="29" rx="1" /></g>
+      <g class="candle up"><line x1="330" y1="56" x2="330" y2="114" /><rect x="322" y="65" width="16" height="33" rx="1" /></g>
+      <g class="candle up"><line x1="370" y1="45" x2="370" y2="90" /><rect x="362" y="54" width="16" height="23" rx="1" /></g>
+      <g class="candle down"><line x1="410" y1="58" x2="410" y2="105" /><rect x="402" y="68" width="16" height="24" rx="1" /></g>
+      <g class="candle up"><line x1="450" y1="36" x2="450" y2="86" /><rect x="442" y="44" width="16" height="26" rx="1" /></g>
+    </g>
+  </svg>
 </section>
 
 <section class="section-grid" id="about">
