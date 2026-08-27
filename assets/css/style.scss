@@ -70,7 +70,7 @@ main,
 .wordmark {
   color: var(--navy);
   font-family: var(--display);
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 500;
   letter-spacing: -.03em;
   text-decoration: none;
@@ -94,8 +94,8 @@ main,
   position: relative;
   display: grid;
   align-content: center;
-  min-height: 76vh;
-  padding: 7rem 0 6rem;
+  min-height: 54vh;
+  padding: 5rem 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -125,20 +125,20 @@ main,
   margin: 0;
   color: var(--navy);
   font-family: var(--display);
-  font-size: clamp(4.3rem, 10vw, 8rem);
-  font-weight: 400;
-  letter-spacing: -.065em;
-  line-height: .9;
+  font-size: 1.75rem;
+  font-weight: 500;
+  letter-spacing: -.025em;
+  line-height: 1.2;
 }
 
 .hero-intro {
   max-width: 650px;
-  margin: 2rem 0 0;
+  margin: 1.25rem 0 0;
   color: var(--navy-soft);
   font-family: var(--display);
-  font-size: clamp(1.45rem, 2.5vw, 2.05rem);
-  letter-spacing: -.025em;
-  line-height: 1.25;
+  font-size: 1rem;
+  letter-spacing: 0;
+  line-height: 1.65;
 }
 
 .hero-topics { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 2.25rem; }
@@ -171,10 +171,10 @@ main,
   margin: 0;
   color: var(--navy);
   font-family: var(--display);
-  font-size: 3rem;
-  font-weight: 400;
-  letter-spacing: -.045em;
-  line-height: 1;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1.4;
 }
 
 .about-content { max-width: 760px; }
@@ -182,9 +182,9 @@ main,
 .about-content .lead {
   color: var(--ink);
   font-family: var(--display);
-  font-size: clamp(1.45rem, 2.5vw, 1.9rem);
-  letter-spacing: -.02em;
-  line-height: 1.35;
+  font-size: 1rem;
+  letter-spacing: 0;
+  line-height: 1.65;
 }
 
 .education { margin-top: 3.2rem; border-top: 1px solid var(--line); }
@@ -222,10 +222,10 @@ main,
   margin: 0;
   color: var(--navy);
   font-family: var(--display);
-  font-size: clamp(1.45rem, 2.5vw, 2rem);
-  font-weight: 400;
-  letter-spacing: -.025em;
-  line-height: 1.2;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.5;
 }
 .research-item > p { grid-column: 1; margin: -.8rem 0 0; color: var(--muted); font-size: .78rem; }
 
@@ -247,7 +247,7 @@ a:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
   .site-header, main, .site-footer { width: min(100% - 36px, 1120px); }
   .site-header nav { gap: 1rem; }
   .github-link span { display: none; }
-  .hero { min-height: 72vh; padding: 5rem 0 4rem; }
+  .hero { min-height: 50vh; padding: 4rem 0; }
   .hero::after { display: none; }
   .section-grid { grid-template-columns: 1fr; gap: 2.5rem; padding: 5rem 0; }
   .section-heading { gap: 1.5rem; }
