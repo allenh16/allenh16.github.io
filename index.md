@@ -14,7 +14,6 @@ layout: homepage
   </div>
   <svg class="market-chart" viewBox="0 0 520 220" aria-hidden="true" focusable="false">
     <g class="chart-grid">
-      <line x1="16" y1="30" x2="504" y2="30" />
       <line x1="16" y1="80" x2="504" y2="80" />
       <line x1="16" y1="130" x2="504" y2="130" />
       <line x1="16" y1="180" x2="504" y2="180" />
