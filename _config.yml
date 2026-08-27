@@ -1,49 +1,12 @@
-# Basic Information 
-title: Allen
-initials: A
-position: Ph.D. Candidate in Quantitative Finance
-affiliation: Hong Kong University of Science and Technology
-affiliation_short: HKUST
-affiliation_link: https://hkust.edu.hk/
-
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: quantitative finance, financial technology, machine learning, network finance, agentic AI
-description: Allen is a Ph.D. candidate in Quantitative Finance at HKUST, working on network finance, machine learning, and AI for financial markets.
+title: Allen Huang
+description: Allen Huang, Ph.D. in Fintech.
 canonical: https://allenh16.github.io/
-
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-github_link: https://github.com/allenh16
-
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-# Add an avatar path here when a final portrait is available.
-# avatar: ./assets/img/avatar.png
 favicon: ./assets/img/kl.png
 favicon_dark: ./assets/img/kl.png
-
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: False
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: True
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Sans Serif" # or "Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics:
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+enable_footnote: false
+auto_dark_mode: true
+font: "Sans Serif"
 remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
