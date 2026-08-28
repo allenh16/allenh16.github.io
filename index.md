@@ -55,34 +55,38 @@ layout: homepage
   <div class="research-grid">
     <div class="research-list">
     <article class="research-item">
-      <div class="research-meta"><span>Network Finance</span><span>01</span></div>
+      <div class="research-meta"><span>TSFM Adaptation</span><span>01</span></div>
+      <h3>Adapting Time-Series Foundation Models for Realized Volatility Forecasting</h3>
+    </article>
+    <article class="research-item">
+      <div class="research-meta"><span>Network Finance</span><span>02</span></div>
       <h3>Momentum Spillovers and Reversals in Cryptocurrency Networks</h3>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Asset Pricing</span><span>02</span></div>
+      <div class="research-meta"><span>Asset Pricing</span><span>03</span></div>
       <h3>Distance-Based Network Reversal</h3>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Agentic AI</span><span>03</span></div>
+      <div class="research-meta"><span>Agentic AI</span><span>04</span></div>
       <h3>From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets</h3>
       <p>with Zheqi Fan, Kaiqi Hu, and Yifan Ye</p>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Semantic Networks</span><span>04</span></div>
+      <div class="research-meta"><span>Semantic Networks</span><span>05</span></div>
       <h3>Cross-Stock Predictability via LLM-Augmented Semantic Networks</h3>
       <p>with Zheqi Fan, Kaiqi Hu, and Yifan Ye</p>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Agentic AI</span><span>05</span></div>
+      <div class="research-meta"><span>Agentic AI</span><span>06</span></div>
       <h3>Beyond Prompting: Autonomous Factor Investing via Agentic AI</h3>
       <p>with Zheqi Fan</p>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Statistical Arbitrage</span><span>06</span></div>
+      <div class="research-meta"><span>Statistical Arbitrage</span><span>07</span></div>
       <h3>Pairs Trading with Firm-Level Semantic Information</h3>
     </article>
     <article class="research-item">
-      <div class="research-meta"><span>Volatility</span><span>07</span></div>
+      <div class="research-meta"><span>Volatility</span><span>08</span></div>
       <h3>Realized Volatility Forecasting with Graphical Information</h3>
     </article>
     </div>
